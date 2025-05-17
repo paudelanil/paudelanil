@@ -1,6 +1,6 @@
 # Hi, I'm Anil Paudel! 👋  
 
-I’m a **Computer Engineering graduate** from **Pulchowk Campus, IOE**, currently working as an **LLM researcher and AI engineer**. My passion lies in **AI/ML**, especially in building intelligent systems powered by large language models, multi-agent collaboration, and Generative AI.  
+I’m a **Computer Engineering graduate** from **Pulchowk Campus, IOE**. My passion lies in **AI/ML**, especially in building intelligent systems powered by large language models, multi-agent collaboration, and Generative AI.  
 
 📚 **Focus Areas:**  
 - Large Language Models (LLMs) & Prompt Engineering  
